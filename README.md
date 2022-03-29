@@ -1,6 +1,9 @@
 #  Customer Relationship Management System with customer segmentation using k-means clustering and Agglomerative Clustering
 
 Will Update all the details of the project shortly... Hang in there!!!!!!
-Attaching the screenshots of the project.... ![Screenshot (80)](https://user-images.githubusercontent.com/81951418/122932180-26373800-d38b-11eb-8ada-dda43a4faf0c.png)
-![Screenshot (82)](https://user-images.githubusercontent.com/81951418/122932204-2a635580-d38b-11eb-80e8-27abef3d2ceb.png)
-![Screenshot (83)](https://user-images.githubusercontent.com/81951418/122932224-2f280980-d38b-11eb-85dd-6844fa7ce1e9.png)
+Attaching the screenshots of the project.... 
+![Screenshot (138)](https://github.com/iampraveenmng/CRMS/blob/faf81a9587c13a6f5e020e02fc49097a96d025c1/Screenshot%20(138).png)
+![Screenshot (139)](https://github.com/iampraveenmng/CRMS/blob/faf81a9587c13a6f5e020e02fc49097a96d025c1/Screenshot%20(139).png)
+![Screenshot (140)](https://github.com/iampraveenmng/CRMS/blob/faf81a9587c13a6f5e020e02fc49097a96d025c1/Screenshot%20(140).png)
+
+
